@@ -15,4 +15,4 @@
 
 **Why?** To take the guesswork out of website optimization and enable data-informed decisions.
 
-**How?** By measuring the impact the change have on your metrics.
+**How?** By measuring the impact the change has on your metrics.
